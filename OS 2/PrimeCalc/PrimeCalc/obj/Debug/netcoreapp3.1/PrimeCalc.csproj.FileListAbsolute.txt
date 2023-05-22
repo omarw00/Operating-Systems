@@ -1,0 +1,13 @@
+C:\Users\omarw\source\repos\PrimeCalc\PrimeCalc\bin\Debug\netcoreapp3.1\PrimeCalc.exe
+C:\Users\omarw\source\repos\PrimeCalc\PrimeCalc\bin\Debug\netcoreapp3.1\PrimeCalc.deps.json
+C:\Users\omarw\source\repos\PrimeCalc\PrimeCalc\bin\Debug\netcoreapp3.1\PrimeCalc.runtimeconfig.json
+C:\Users\omarw\source\repos\PrimeCalc\PrimeCalc\bin\Debug\netcoreapp3.1\PrimeCalc.runtimeconfig.dev.json
+C:\Users\omarw\source\repos\PrimeCalc\PrimeCalc\bin\Debug\netcoreapp3.1\PrimeCalc.dll
+C:\Users\omarw\source\repos\PrimeCalc\PrimeCalc\bin\Debug\netcoreapp3.1\PrimeCalc.pdb
+C:\Users\omarw\source\repos\PrimeCalc\PrimeCalc\obj\Debug\netcoreapp3.1\PrimeCalc.csproj.AssemblyReference.cache
+C:\Users\omarw\source\repos\PrimeCalc\PrimeCalc\obj\Debug\netcoreapp3.1\PrimeCalc.AssemblyInfoInputs.cache
+C:\Users\omarw\source\repos\PrimeCalc\PrimeCalc\obj\Debug\netcoreapp3.1\PrimeCalc.AssemblyInfo.cs
+C:\Users\omarw\source\repos\PrimeCalc\PrimeCalc\obj\Debug\netcoreapp3.1\PrimeCalc.csproj.CoreCompileInputs.cache
+C:\Users\omarw\source\repos\PrimeCalc\PrimeCalc\obj\Debug\netcoreapp3.1\PrimeCalc.dll
+C:\Users\omarw\source\repos\PrimeCalc\PrimeCalc\obj\Debug\netcoreapp3.1\PrimeCalc.pdb
+C:\Users\omarw\source\repos\PrimeCalc\PrimeCalc\obj\Debug\netcoreapp3.1\PrimeCalc.genruntimeconfig.cache

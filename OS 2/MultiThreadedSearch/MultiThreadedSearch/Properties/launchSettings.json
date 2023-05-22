@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MultiThreadedSearch": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\omarw\\Downloads\\TEST.txt \"Alice\" 4 0"
+    }
+  }
+}
