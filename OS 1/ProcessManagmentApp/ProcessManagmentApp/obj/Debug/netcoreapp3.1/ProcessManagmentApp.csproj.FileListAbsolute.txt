@@ -1,0 +1,15 @@
+C:\Users\omarw\source\repos\ProcessManagmentApp\ProcessManagmentApp\obj\Debug\netcoreapp3.1\ProcessManagmentApp.csproj.AssemblyReference.cache
+C:\Users\omarw\source\repos\ProcessManagmentApp\ProcessManagmentApp\obj\Debug\netcoreapp3.1\ProcessManagmentApp.Form1.resources
+C:\Users\omarw\source\repos\ProcessManagmentApp\ProcessManagmentApp\obj\Debug\netcoreapp3.1\ProcessManagmentApp.csproj.GenerateResource.cache
+C:\Users\omarw\source\repos\ProcessManagmentApp\ProcessManagmentApp\obj\Debug\netcoreapp3.1\ProcessManagmentApp.AssemblyInfoInputs.cache
+C:\Users\omarw\source\repos\ProcessManagmentApp\ProcessManagmentApp\obj\Debug\netcoreapp3.1\ProcessManagmentApp.AssemblyInfo.cs
+C:\Users\omarw\source\repos\ProcessManagmentApp\ProcessManagmentApp\obj\Debug\netcoreapp3.1\ProcessManagmentApp.csproj.CoreCompileInputs.cache
+C:\Users\omarw\source\repos\ProcessManagmentApp\ProcessManagmentApp\bin\Debug\netcoreapp3.1\ProcessManagmentApp.exe
+C:\Users\omarw\source\repos\ProcessManagmentApp\ProcessManagmentApp\bin\Debug\netcoreapp3.1\ProcessManagmentApp.deps.json
+C:\Users\omarw\source\repos\ProcessManagmentApp\ProcessManagmentApp\bin\Debug\netcoreapp3.1\ProcessManagmentApp.runtimeconfig.json
+C:\Users\omarw\source\repos\ProcessManagmentApp\ProcessManagmentApp\bin\Debug\netcoreapp3.1\ProcessManagmentApp.runtimeconfig.dev.json
+C:\Users\omarw\source\repos\ProcessManagmentApp\ProcessManagmentApp\bin\Debug\netcoreapp3.1\ProcessManagmentApp.dll
+C:\Users\omarw\source\repos\ProcessManagmentApp\ProcessManagmentApp\bin\Debug\netcoreapp3.1\ProcessManagmentApp.pdb
+C:\Users\omarw\source\repos\ProcessManagmentApp\ProcessManagmentApp\obj\Debug\netcoreapp3.1\ProcessManagmentApp.dll
+C:\Users\omarw\source\repos\ProcessManagmentApp\ProcessManagmentApp\obj\Debug\netcoreapp3.1\ProcessManagmentApp.pdb
+C:\Users\omarw\source\repos\ProcessManagmentApp\ProcessManagmentApp\obj\Debug\netcoreapp3.1\ProcessManagmentApp.genruntimeconfig.cache
